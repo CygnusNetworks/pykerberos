@@ -1,3 +1,10 @@
+pykerberos (1.1+svn10616-2) UNRELEASED; urgency=low
+
+  * [88122f5] Switch to dpkg-source 3.0 (quilt) format
+  * [79c151b] Fix python dependency
+
+ -- Dr. Torge Szczepanek <debian@cygnusnetworks.de>  Wed, 08 Jan 2014 13:14:11 +0100
+
 pykerberos (1.1+svn10616-1) unstable; urgency=low
 
   * [ef7f26c] New upstream version 1.1+svn10616
